@@ -30,8 +30,13 @@ mvnw spring-boot:run
 2. Test avaliable endpoints & actions 
 
 /generatethreads - Spawn 10 inactive threads
+
 /cpuload?time=120&load=0.8 - Maintain 80% CPU for 120 Seconds
+
 /deadlock - Trigger Deadlock
+
 /generateobjects - Create Memory Leak
+
 /addmemory - consume heap memory
+
 /release - release memory
