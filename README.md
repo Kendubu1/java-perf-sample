@@ -22,7 +22,7 @@ java -jar target/demo-0.0.1-SNAPSHOT.jar
 Alternatively, you can run the app directly without packaging
 
 ```bash
-mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 ## Review in Visual VM
